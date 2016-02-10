@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CustomImageViewSample001</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="gameName">まるばつゲーム</string>
+    <string name="replay">リプレイ</string>
+    <string name="maruWin">◯の勝ち</string>
+    <string name="batuWin">×の勝ち</string>
+    <string name="draw">引き分け</string>
+
+</resources>
